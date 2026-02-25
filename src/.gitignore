@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+emotion/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dataset folders
+data/
+fer2013/
+
+# Models
+models/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
